@@ -25,8 +25,8 @@ hence, the model will lack predictive power.
 ### Q3. Given the following information, provide a short logical reason for your answer. 
 _The logit function will accept input values, and will effectively convert those into a value ranging between 0 and 1. It is a probability. The Odds Function has
 the ability to transform the Logit Function into an Equivalence Function which will change the output range from initially, probabilities between 0 to 1, to log
-odds between 0 and ∞. The Log Odds Function effectively converts each probability into Log Odds._ **What is the possible range of values for the Odds Function
-if the Logit Function has an a-axis in which X ε [0, 1].**
+odds between 0 and ∞. **The Log Odds Function effectively converts each probability into Log Odds**._ **What is the possible range of values for the Odds Function
+if the Logit Function has an x-axis in which X ε [0, 1].**
 #### Difficulty: Senior.
 __*Answer:*__  Upon applying and understanding the mathematices of Logistic Regression, one will find that the odds converts probabilities which range from 0 to 1, into
 logarithmic odds. Hence if X is an element of 0 to 1, the Odds Function will have a value range of -∞ (negative infinity) to ∞ (infinity).
