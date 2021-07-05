@@ -13,7 +13,7 @@ would use Logistic Regression Algorithm when one requires a categorical value to
 each observation may take one of two values, such as "yes"/"no"; "red"/"blue"; hence the description of __Binary Classifier__. Logistic Regression should be used to predict
 non-quantitative values, i.e., Non-Numerical values.
 
-### Q2. Provide a short explanation the use of ROC curves and the AUC-ROC Evaluation metric.
+### Q2. Provide a short explanation about the use of ROC curves and the AUC-ROC Evaluation metric.
 #### Difficulty: Medium.
 __*Answer:*__ ROC Curve is short for Receiving Operating Characteristic Curve. In the visual form, this visualization (graph) is used to show the performance of a Binary
 Classification model, such as standard Logistic Regression. The Graph plots two important Classification Evaluation metrics- viz. True Positive Rate (TPR) and False Positive
