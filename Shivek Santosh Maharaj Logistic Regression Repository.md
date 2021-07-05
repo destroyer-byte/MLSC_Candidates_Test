@@ -17,7 +17,7 @@ non-quantitative values, i.e., Non-Numerical values.
 #### Difficulty: Medium.
 __*Answer:*__ ROC Curve is short for Receiving Operating Characteristic Curve. In the visual form, this visualization (graph) is used to show the performance of a Binary
 Classification model, such as standard Logistic Regression. The Graph plots two important Classification Evaluation metrics- viz. True Positive Rate (TPR) and False Positive
-Rate (FPR)- for all model threshold values which range from decimal 0 to 1. AUC-ROC is short for Area Under Curve- it is the area under the ROC Gradient. One will find that
+Rate (FPR)- for all model threshold values which range from integer 0 to 1. AUC-ROC is short for Area Under Curve- it is the area under the ROC Gradient. One will find that
 the closer the value for AUC-ROC is to 1, the better the quality of the Binary Classification model. Upon drawing a diagonal gradient from the bottom-left to top-right of
 the plot, this particular gradient will be used to represent the values that will be received if the model is not efficient in it's predictions and is randomly guessing,
 hence, the model will lack predictive power.
