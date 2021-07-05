@@ -29,6 +29,6 @@ odds between 0 and ∞. **The Log Odds Function effectively converts each probab
 if the Logit Function has an x-axis in which X ε [0, 1].**
 #### Difficulty: Senior.
 __*Answer:*__  Upon applying and understanding the mathematices of Logistic Regression, one will find that the odds converts probabilities which range from 0 to 1, into
-logarithmic odds. Hence if X is an element of 0 to 1, the Odds Function will have a value range of -∞ (negative infinity) to ∞ (infinity).
+logarithmic odds. Hence if X is an element of 0 to 1, the Odds Function will have a value range of -∞ (negative infinity) to ∞ (positive infinity).
 
 
